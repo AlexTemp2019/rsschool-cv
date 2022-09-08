@@ -1,1 +1,1 @@
-https://AlexTemp2019.github.io/rsschool-cv/cv
+https://AlexTemp2019.github.io/rsschool-cv/
