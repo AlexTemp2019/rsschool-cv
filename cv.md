@@ -1,7 +1,7 @@
 ![applicant's photo](img/foto.jpg)
 
 # Oleksandr Kostian
-### Junior front-end developer
+#### Junior front-end developer
 ---
 ### CONTACT:
 
