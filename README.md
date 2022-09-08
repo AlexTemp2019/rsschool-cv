@@ -1,3 +1,1 @@
-This is a blank file
-#### Docs
-``` The main development branch is gh-pages
+(https://github.com/AlexTemp2019/rsschool-cv.git)
