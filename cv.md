@@ -1,4 +1,4 @@
-![applicant's photo](img/foto.jpg)
+![applicant's photo](img/foto.png)
 
 # Oleksandr Kostian
 #### Junior front-end developer
