@@ -1,3 +1,2 @@
-This is a blank file
-#### Docs
-``` The main development branch is gh-pages
+###Docs
+The main branch of development is gh-pages
